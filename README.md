@@ -9,13 +9,17 @@
 
 - 🌱 I’m currently learning **Python, html, css, java script and many other language.**
 
-- 👯 I’m looking to collaborate on [AniHive](https://anihive.com/)
+- 👯 I’m looking to collaborate/create Website (contact me if you need)
 
 - 🤝 I’m looking for help with [AniHive](https://anihive.com/)
 
 - 📫 How to reach me **jaysonpasquier.contact@gmail.com**
 
 - ⚡ Fun fact **I'm trying to become more sociable !**
+
+**all project done :**
+- [Anihive](https://anihive.com)
+- [American Muscle Car France](https://amc-f.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
