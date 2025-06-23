@@ -5,20 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysonpasquier" alt="jaysonpasquier" /></a> </p>
 
-- 🔭 I’m currently working on [AniHive](https://anihive.com/)
 
 - 🌱 I’m currently learning **Python, html, css, java script and many other language.**
 
 - 👯 I’m looking to collaborate/create Website (contact me if you need)
-
-- 🤝 I’m looking for help with [AniHive](https://anihive.com/)
 
 - 📫 How to reach me **jaysonpasquier.contact@gmail.com**
 
 - ⚡ Fun fact **I'm trying to become more sociable !**
 
 **all project done :**
-- [Anihive](https://anihive.com)
 - [American Muscle Car France](https://amc-f.com)
 
 <h3 align="left">Connect with me:</h3>
